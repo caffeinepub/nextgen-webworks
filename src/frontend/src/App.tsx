@@ -1672,7 +1672,7 @@ function ContactSection() {
 
             {/* Email */}
             <a
-              href="mailto:contact@nextgenwebworks.com"
+              href="mailto:advssrajawat@gmail.com"
               className="flex items-center gap-3 p-4 card-glass rounded-xl hover:border-neon-cyan/40 transition-all duration-300 mb-6 group"
             >
               <div className="w-10 h-10 rounded-lg bg-neon-cyan/10 flex items-center justify-center text-neon-cyan group-hover:bg-neon-cyan/20 transition-all">
@@ -1683,7 +1683,7 @@ function ContactSection() {
                   Email us at
                 </div>
                 <div className="text-foreground font-semibold text-sm">
-                  contact@nextgenwebworks.com
+                  advssrajawat@gmail.com
                 </div>
               </div>
             </a>
@@ -1885,11 +1885,11 @@ function Footer() {
               Contact
             </h4>
             <a
-              href="mailto:contact@nextgenwebworks.com"
+              href="mailto:advssrajawat@gmail.com"
               className="text-muted-foreground hover:text-neon-cyan text-sm transition-colors duration-200 flex items-center gap-2"
             >
               <Mail className="w-4 h-4" />
-              contact@nextgenwebworks.com
+              advssrajawat@gmail.com
             </a>
           </div>
         </div>
